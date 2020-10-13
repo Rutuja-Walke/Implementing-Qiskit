@@ -11,14 +11,13 @@ calculate summary statistics and visualize the results of experiments.
 
 This repository provides entire workflow, with each step explained in detail.
 
-###Workflow Step–by–Step
+### Workflow Step–by–Step
 The program above can be broken down into six steps:
 
 Import packages
 
 Initialize variables
 
-Add gates
 
 Visualize the circuit
 
