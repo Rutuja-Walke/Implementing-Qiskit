@@ -11,16 +11,14 @@ calculate summary statistics and *visualize* the results of experiments.
 
 This repository provides entire workflow, with each step explained in detail.
 
+
 ### *Workflow Step–by–Step*
 The program above can be broken down into six steps:
 
-Import packages
+1.Import packages
+2.Build the Circuit
+3.Example of Quantum Circuit that makes a 3 Qubits GHZ gate
+4.Hadamard Gate: Adding Operation to the Circuit
+5.Visualize the circuit
+6.Simulating circuits using Qiskit Aer
 
-Initialize variables
-
-
-Visualize the circuit
-
-Simulate the experiment
-
-Visualize the results
