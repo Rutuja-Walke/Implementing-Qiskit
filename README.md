@@ -1,18 +1,17 @@
-# Implementing-Qiskit
+# Implementing-Qiskit/Circuits
+This repository provides entire workflow, with each step explained in detail.
 
 The workflow of using Qiskit consists of three high-level steps:
 
-## *Build:* 
+*Build:* 
 Design a *quantum circuit* that represents the problem you are considering.
-## *Execute:*
+*Execute:*
 Run experiments on different backends (which include both systems and simulators).
-## *Analyze:*
+*Analyze:*
 calculate summary statistics and *visualize* the results of experiments.
 
-This repository provides entire workflow, with each step explained in detail.
 
-
-### Workflow Step–by–Step
+## Workflow Step–by–Step
 The program above can be broken down into six steps:
 
 1.Import packages
@@ -26,4 +25,14 @@ The program above can be broken down into six steps:
 5.Visualize the circuit
 
 6.Simulating circuits using Qiskit Aer
+
+
+
+##In more detail,
+
+*QuantumCircuit*: can be thought as the instructions of the quantum system. It holds all your quantum operations.
+
+*Aer*: handles simulator backends.
+
+*plot_histogram*: creates histograms.
 
