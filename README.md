@@ -3,7 +3,7 @@ This repository provides workflow of qiskit circuits, with each step explained i
 
 The workflow of using Qiskit consists of three high-level steps:
 
-*Build:* 
+*Build:*
 Design a *quantum circuit* that represents the problem you are considering.
 
 *Execute:*
