@@ -28,7 +28,7 @@ The program above can be broken down into six steps:
 
 
 
-##In more detail,
+## In more detail,
 
 *QuantumCircuit*: can be thought as the instructions of the quantum system. It holds all your quantum operations.
 
