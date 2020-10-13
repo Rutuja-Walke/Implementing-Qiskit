@@ -1,4 +1,4 @@
-# Implementing-Qiskit/Qiskit-Circuits
+# Implementing-Qiskit-Qiskit Circuits/Qiskit-Circuits
 This repository provides workflow of qiskit circuits, with each step explained in detail.
 
 The workflow of using Qiskit consists of three high-level steps:
