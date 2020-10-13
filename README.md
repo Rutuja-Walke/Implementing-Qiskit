@@ -1,3 +1,13 @@
 # Implementing-Qiskit
 
-I have provided a basic over-view of working with Qiskit. The fundamental package of Qiskit is Terra that provides the basic building blocks necessary to program quantum computers.
+
+The workflow of using Qiskit consists of three high-level steps:
+
+### Build: 
+design a quantum circuit that represents the problem you are considering.
+
+### Execute:
+run experiments on different backends (which include both systems and simulators).
+
+### Analyze:
+calculate summary statistics and visualize the results of experiments.
